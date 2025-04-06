@@ -31,3 +31,6 @@ Network visualisation in Gephi was used to show clusters and edge polarity (posi
     * Network flattening (Diesner & Evans method)
     * Clustering coefficient, density, and triadic census
     * Community detection (Louvain method)
+
+## License
+This content is shared for educational and portfolio purposes only. Please do not reuse without appropriate citation.
